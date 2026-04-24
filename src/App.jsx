@@ -684,13 +684,13 @@ export default function App() {
       icon: '⬡',
       area: 'Backend',
       title: 'Backend',
-      skills: ['Python', 'Laravel (PHP)', 'Java', 'PostgreSQL', 'MySQL'],
+      skills: ['Python', 'Laravel (PHP)', 'Java', 'C#', 'PostgreSQL', 'MySQL'],
     },
     {
       icon: '◈',
       area: 'Frontend',
       title: 'Frontend',
-      skills: ['React', 'JavaScript', 'Angular'],
+      skills: ['React', 'JavaScript', 'Angular', 'Ionic'],
     },
     {
       icon: '⬕',
